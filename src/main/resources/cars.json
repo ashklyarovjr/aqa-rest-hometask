@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Passat",
+    "year": 2015,
+    "engine": 2.0
+  },
+  {
+    "manufacturer": "Skoda",
+    "model": "Superb",
+    "year": 2015,
+    "engine": 2.0
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "A6",
+    "year": 2015,
+    "engine": 3.5
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "535",
+    "year": 2015,
+    "engine": 3.0
+  }
+]
